@@ -3,3 +3,4 @@
 {75f971f4-77a7-a0fc-f299-9c4143d1eb08} Crawl
 {7e477186-b859-11e8-bd5e-806e6f6e6963} CodeCracker 2.PC
 {fa5fe840-29de-11eb-93eb-806e6f6e6963} MCG
+{7824aaa0-bfc4-11eb-ad6c-806e6f6e6963} Redörd
