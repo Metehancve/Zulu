@@ -2,7 +2,4 @@
 {4eb7ce9e-c57f-1da2-3e77-2322de32e722} LuisX
 {75f971f4-77a7-a0fc-f299-9c4143d1eb08} Crawl
 {7e477186-b859-11e8-bd5e-806e6f6e6963} CodeCracker 2.PC
-{7824aaa0-bfc4-11eb-ad6c-806e6f6e6963} Redörd
-{AFC24947-AD27-AEC1-AD27-80036ECC67C5} Discoorp Mehmet
 {959ac2fb-c213-11eb-a11b-806e6f6e6963} irfan
-{4c15512b-c1a7-11eb-ad79-806e6f6e6963} redörd
