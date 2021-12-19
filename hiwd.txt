@@ -9,3 +9,4 @@
 {2e1f03ba-60ce-11ec-89a5-806e6f6e6963} lukens
 {548699f3-600e-11ec-89ba-806e6f6e6963} bybisey
 {3be2ffc0-5f1f-11ec-a222-806e6f6e6963} frystions 25
+{6E66FDB4-9C13-1783-0EAE-F61FB35FD03C} rookie 19
