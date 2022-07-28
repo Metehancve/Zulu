@@ -1,12 +1,1 @@
-{978db893-e3d5-11eb-80d7-806e6f6e6963} Ural
-{d0ded225-4d21-11ec-af4d-806e6f6e6963} CodeCracker
-{4eb7ce9e-c57f-1da2-3e77-2322de32e722} LuisX
-{75f971f4-77a7-a0fc-f299-9c4143d1eb08} Crawl
-{7e477186-b859-11e8-bd5e-806e6f6e6963} CodeCracker 2.PC
-{4c128bb8-f5b3-71a5-2e71-745eb2fdaf91} irfan
-{a8ec4a40-007a-11eb-aa99-806e6f6e6963} Hilmi
-{43705932-5fe7-11ec-8971-806e6f6e6963} CodeCracker 
-{2e1f03ba-60ce-11ec-89a5-806e6f6e6963} lukens
-{548699f3-600e-11ec-89ba-806e6f6e6963} bybisey
-{3be2ffc0-5f1f-11ec-a222-806e6f6e6963} frystions 25
-{6E66FDB4-9C13-1783-0EAE-F61FB35FD03C} rookie 19
+
